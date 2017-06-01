@@ -17,11 +17,5 @@ public class ComplexSums {
 
 	public static void main(String[] args) {
 		recursive(3, 3);
-		/*
-		 * sum:25 sum:27 sum:16 sum:18 sum:9
-		 * 
-		 */
-
 	}
-
 }
